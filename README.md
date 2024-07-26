@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi, I am Krishna Gupta. My areas of interest lies in the field of web development, AI/ML. Currently on the lookout for Summer 2024 internships.
+Hi, I am Krishna Gupta. My areas of interest lies in the field of web development, AI/ML. Currently on the lookout for Summer 2025 internships.
 
 ⚡ **Fun fact:** I love to connect with people and learn about their journey. It helps me open my mind to different perspectives on various domains.
 
