@@ -1,5 +1,6 @@
 # Hi, I'm Krishna Gupta 👋
 
+![Banner](https://github.com/your_username/your_repo/raw/main/banner_image.png) <!-- Replace with the URL of your banner image -->
 
 [![GitHub followers](https://img.shields.io/github/followers/your_github_username?style=social)](https://github.com/Krigupt)
 
@@ -13,7 +14,7 @@ Hi, I am Krishna Gupta. My areas of interest lies in the field of web developmen
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
+
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
